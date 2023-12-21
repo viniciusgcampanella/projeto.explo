@@ -15,4 +15,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - Git e Github
 
-<p> Para acessar o projeto finalizado acesse em:  </p>
+<p> Para acessar o projeto finalizado acesse em: https://viniciusgcampanella.github.io/projeto.explo/ </p>
